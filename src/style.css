@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin: 20px 0;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+  border: none;
+}
